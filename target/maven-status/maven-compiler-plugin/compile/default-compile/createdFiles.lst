@@ -1,0 +1,6 @@
+com\bedbath\fileuploadanddownload\config\Application.class
+com\bedbath\fileuploadanddownload\service\FileUploadDownloadServiceImpl.class
+com\bedbath\fileuploadanddownload\controller\FileUploadDownloadController.class
+com\bedbath\fileuploadanddownload\config\SwaggerConfig.class
+com\bedbath\fileuploadanddownload\model\FileInfo.class
+com\bedbath\fileuploadanddownload\service\FileUploadDownloadService.class
